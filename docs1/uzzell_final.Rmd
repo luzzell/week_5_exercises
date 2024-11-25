@@ -1,0 +1,16 @@
+---
+title: "final"
+author: "Lila Uzzell"
+date: "2024-11-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+#Testing Lila Website <3
+
+
